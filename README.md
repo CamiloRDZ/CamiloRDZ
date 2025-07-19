@@ -1,12 +1,13 @@
 <h1 align="center">¡Hola, Soy Camilo!</h1>
 
 <p align="center">
-  Desarrollador Java Backend | Spring Boot | APIs RESTful | Git | Docker | AWS
-</p>
+  Desarrollador Java Full Stack | Java, Spring Boot, Maven | Angular, TypeScript, JavaScript | DevOps (Docker) | Oracle, MySql, PostgreSQL MongoDB | Git
 
 ---
 
 ### 👨‍💻 Sobre mí
+
+Soy un desarrollador Java con más de 5 años de experiencia construyendo aplicaciones robustas, seguras y escalables. Especializado en arquitectura de microservicios con Spring Boot, desarrollo frontend con Angular y despliegue en la nube (AWS). Apasionado por el código limpio, las buenas prácticas y la entrega de soluciones que aporten valor real al negocio.
 
 - 🧠 5 años de experiencia desarrollando soluciones empresariales
 - ☕ Apasionado por Java, Spring Framework y buenas prácticas (SOLID, Clean Code, TDD, BDD)
