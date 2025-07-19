@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, Soy Camilo!</h1>
 <p align="center">
-  Desarrollador Java Backend | Spring Boot | Oracle | APIs RESTful | Git | Docker
+  Desarrollador Java Backend | Spring Boot | APIs RESTful | Git | Docker | AWS
 </p>
 
 ---
@@ -9,14 +9,11 @@
 
 - 🧠 8 años de experiencia desarrollando soluciones empresariales
 - ☕ Apasionado por Java, Spring Framework y buenas prácticas (SOLID, Clean Code)
-- 🛠️ Experiencia con JPA, Hibernate, Maven, Oracle, PostgreSQL, MySQL
-- 🌱 Aprendiendo sobre microservicios, AWS y DevOps
+- 🛠️ Experiencia con Spring, Struts, JPA, JSP, Hibernate, Maven, Gradle, MongoDB, Oracle, PostgreSQL, MySQL
+- 🌱 Aprendiendo sobre AWS y DevOps
 - 💬 Me encanta compartir conocimientos sobre diseño de software, patrones y arquitectura
 
 ---
-
-<h3 align="center">Languages and Tools:</h3>
-
 
 ### 🧰 Tecnologías y herramientas
 
