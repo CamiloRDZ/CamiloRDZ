@@ -17,6 +17,8 @@ Soy un desarrollador Java con más de 5 años de experiencia construyendo aplica
 
 ---
 
+<div align="center">
+
 ### 🧰 Tecnologías y herramientas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -27,6 +29,7 @@ Soy un desarrollador Java con más de 5 años de experiencia construyendo aplica
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 
+</div>
 
 ---
 
