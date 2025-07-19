@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola, Soy Camilo! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">¡Hola, Soy Camilo!</h1>
+<h3 align="center">Desarrollador Java full stack con 5 años de experiencia ofreciendo soluciones robustas, seguras, mantenibles y escalables. Especializado en arquitectura de microservicios, Spring Boot, Angular y despliegue en la nube. Fuerte enfoque en calidad del código, trabajo en equipo y cumplimiento de objetivos técnicos y de negocio.</h3>
 
 - 🔭 I’m currently working on my **Python Course**
 
